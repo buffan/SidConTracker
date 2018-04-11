@@ -1,0 +1,3 @@
+class BaseConverter:
+    input = {}
+    output = {}

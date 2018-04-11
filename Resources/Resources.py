@@ -8,7 +8,10 @@ class BigCube(Resource):
 class SmallCube(Resource):
     pass
 
-class Cylindar(Resource):
+class Cylinder(Resource):
+    pass
+
+class Ship(Resource):
     pass
 
 

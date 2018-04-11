@@ -1,4 +1,4 @@
-from BaseRace import BaseRace
+from Races.BaseRace import BaseRace
 
 class EniEt(BaseRace):
     pass
